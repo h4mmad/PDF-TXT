@@ -1,7 +1,9 @@
 ## PDF to TXT format converter
 
-Uses Apache's PDFBox, Php code executes a jar file that converts the pdf document
+Uses Apache's PDFBox, Php code executes a jar file that converts the pdf document.
+Part of a university assignment
 
+---
 
 ### Download docker image from docker hub
 
