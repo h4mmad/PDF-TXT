@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+button{
+    border: none;
+}
+
+
+#upload-button{
+    padding: 5px 10px 5px 10px;
+    color: white;
+    font-weight: 500;
+    font-size: medium;
+    background-color: #FF7300;
+    border-radius:  5px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+}
+#upload-button:hover{
+    background-color: #eb6a00;
+}
+
+
+
+
+#submit-button{
+    padding: 5px 10px 5px 10px;
+    color: #FF7300;
+    font-weight: 500;
+    font-size: medium;
+    width: 100px;
+    background-color: white;
+    border-radius:  5px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+}
+#submit-button:hover{
+    color: white;
+    background-color: #FF7300;
+}
+
+form{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+#custom-text{
+    margin: 10px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(218, 218, 218);
+    font-weight: 300;
+}
+
+#center-div{
+    margin: auto;
+    width: 50%;
+    height: fit-content;
+    padding: 10px;
+    background-color: #2F015D;
+    border-radius:  10px;
+}
+
+#center-div-image{
+    margin: auto;
+    width: 50%;
+}
+
+#heading{
+    color: #FFF;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+}
+
+
+img{
+    width: 100%;
+}
+
+.error{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.back-link{
+    color: #FF7300;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+.back-link:hover{
+    text-decoration: underline;
+}
+#download-link{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+#download-link:hover{
+    text-decoration: underline;
+    background-color: #FF7300;
+}
+
+#download-div{
+    text-align: center;
+}
