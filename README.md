@@ -1,5 +1,9 @@
-## Download docker image from docker hub
+## PDF to TXT format converter
 
+Uses Apache's PDFBox, Php code executes a jar file that converts the pdf document
+
+
+### Download docker image from docker hub
 
 docker pull h4mmad/cat201_final:1
 
